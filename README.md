@@ -43,7 +43,7 @@ bash
 pip install -r requirements.txt
 python app.py
 
-##🎯 Use Cases
+## 🎯 Use Cases
 
 Government helpdesk automation
 
@@ -53,7 +53,7 @@ Public service chatbots
 
 Academic NLP research
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 BERT-based Question Answering
 
@@ -63,7 +63,7 @@ Web interface using Streamlit or Flask
 
 Real-time FAQ updates
 
-##👤 Author
+## 👤 Author
 
 Akshit Prashar
 Computer Science Engineering | AI/ML
