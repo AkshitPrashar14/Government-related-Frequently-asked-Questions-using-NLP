@@ -21,15 +21,15 @@ Citizens often struggle to find relevant information from government portals due
 - Scikit-learn  
 - Pandas, NumPy  
 
-## 📂 Project Structure
 project-root/
-├── data/ # Government FAQ datasets
-├── preprocessing/ # Text cleaning & normalization
-├── models/ # NLP models / embeddings
-├── notebooks/ # Experiments & analysis
-├── app.py # Main application file
+├── data/                 # Government FAQ datasets
+├── preprocessing/        # Text cleaning & normalization
+├── models/               # NLP models / embeddings
+├── notebooks/            # Experiments & analysis
+├── app.py                # Main application file
 ├── requirements.txt
 └── README.md
+
 
 ## ⚙️ How It Works
 1. Government FAQ documents are loaded and preprocessed  
